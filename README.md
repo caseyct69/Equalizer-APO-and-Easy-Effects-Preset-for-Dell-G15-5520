@@ -11,7 +11,7 @@ A decent dip at 40-83hz
 Relatively unchanged 100-400hz (100hz slaps harshly so it is reduced)  
 Less 500hz and even less 600hz for clarity, without making it too empty  
 Decent 800hz, the mids slope slightly down to 1.6khz to transition to the heavy 0.67dB cut on upper mids  
-Comfortably balanced mid-treble  
+Comfortably low mid-treble  
 Huge 2-3dB roll off on the high-trebs
 
 
