@@ -17,4 +17,5 @@ Huge 2-3dB roll off on the high-trebs
 
 The Bass Loudness effect in Easy Effects is used to turn the bass down. If you like bass, switch it off. If you're bass sensitive, however, and don't have Easy Effects, use the other APO preset.
 
-Bass Enhancement makes the bass irreparably muddy/thin and forward IMO, that's why it's not included.
+Bass Enhancement makes the bass irreparably muddy/thin and forward IMO, that's why it's not included.  
+Added a slight Stereo tools effect
