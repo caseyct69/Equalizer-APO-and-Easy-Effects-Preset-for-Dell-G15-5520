@@ -19,4 +19,5 @@ The Bass Loudness effect in Easy Effects is used to turn the bass down. If you l
 
 Bass Enhancement makes the bass irreparably muddy/thin and forward IMO, that's why it's not included.  
 
-Added a Stereo tools effect calibrated for accurate imaging for gaming using this video: https://www.youtube.com/watch?v=BMqDCws-C8o
+Added a Stereo tools effect calibrated for accurate imaging for gaming using this video: https://www.youtube.com/watch?v=BMqDCws-C8o  
+IMPORTANT NOTE FOR STEREO TOOLS: If you want the sound to be immersive, as if everything revolves around your head, a Stereo Base of 0.40-0.42 will do that when you lean in, slowly increment depending on how much you tend to lean. If, however, your suspension of disbelief isn't too powerful, and prefer to sit back and be able to hear the sound come from right where it is on the screen, use -0.14 Stereo Base.
