@@ -23,7 +23,7 @@ Bass Enhancement makes the bass irreparably muddy/thin and forward IMO, that's w
 
 ## Stereo Tools
 
-Calibrated for more accurate imaging for gaming using this video: https://www.youtube.com/watch?v=BMqDCws-C8o. Turn it off to ignore the rest of this README.
+Calibrated for more accurate imaging for gaming using this video: https://www.youtube.com/watch?v=BMqDCws-C8o. If you prefer the default, turn it off and ignore the rest of this README.
 
 I've found that increasing Stereo Base can bring forward more detail in music, but makes the sound more squashed and thin the farther you push (back OR forth), so be mindful of that. Adding 1 or 2ms of delay will help with that though, without phasing too much and straight up ruin your sound.
 
