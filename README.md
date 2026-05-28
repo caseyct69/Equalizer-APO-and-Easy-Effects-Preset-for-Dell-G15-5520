@@ -21,7 +21,7 @@ Bass Enhancement makes the bass irreparably muddy/thin and forward IMO, that's w
 
 Added a Stereo tools effect calibrated for accurate imaging for gaming using this video: https://www.youtube.com/watch?v=BMqDCws-C8o  
 
-If you want the sound to be as if everything revolves around your head, a Stereo Base of 0.42-0.52 will do that when you lean in. Higher values make it harder to gauge far distances.
+If you want the sound to be as if everything revolves around your head, a Stereo Base of 0.42-0.52 will do that when you lean in. Slowly increment based on how much you tend to lean. Higher values make it harder to gauge far distances.
 
 If, however, your suspension of disbelief isn't too powerful, and prefer to hear the sound come from right where it is on the screen without needing to lean in, use -0.16 Stereo Base.  
 
