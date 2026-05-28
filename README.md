@@ -12,10 +12,10 @@ Relatively unchanged 100-400hz (100hz slaps harshly so it is reduced)
 Less 500hz and even less 600hz for clarity, without making it too empty  
 Decent 800hz, the mids slope slightly down to 1.6khz to transition to the heavy 0.67dB cut on upper mids  
 Comfortably low mid-treble  
-Huge 2-3dB roll off on the high-trebs
+Huge 2-3dB roll off on the high-trebs cause i'm sensitive to sibilance
 
 
 The Bass Loudness effect in Easy Effects is used to turn the bass down. If you like bass, switch it off. If you're bass sensitive, however, and don't have Easy Effects, use the other APO preset.
 
 Bass Enhancement makes the bass irreparably muddy/thin and forward IMO, that's why it's not included.  
-Added a slight Stereo tools effect
+Added a Stereo tools effect calibrated for accurate imaging for gaming using this video: https://www.youtube.com/watch?v=BMqDCws-C8o
