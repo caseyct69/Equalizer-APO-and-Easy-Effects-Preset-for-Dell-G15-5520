@@ -1,5 +1,5 @@
 # Equalizer-APO-and-Easy-Effects-Preset-for-Dell-G15-5520
-My attempt at making the Dell G15 5520 speakers sound 'flat' via tuning. Made for people who like clarity and detail in their music. Feel free to try this out on any other Dell G series laptop.
+My attempt at making the Dell G15 5520 speakers sound more natural via tuning. Made for people who like clarity and detail in their music. Feel free to try this out on any other Dell G series laptop.
 
 This is a 31-band parametric equalizer. Almost all bands are set to Q 3.7. 
 
