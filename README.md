@@ -27,6 +27,14 @@ Calibrated for more accurate imaging for gaming using this video: https://www.yo
 
 I've found that increasing Stereo Base can bring forward more detail in music, but makes the sound more squashed and thin the farther you push (back OR forth), so be mindful of that. Adding 1 or 2ms of delay will help with that though, without phasing too much and straight up ruin your sound.
 
+
+## Presets
+
+### Immersive Preset (Try this one first)
+
+This is what I use for everything. It's not for FPS games (too wide for on-screen accuracy), but boy does it sound good. Large full space with unnoticable phasing. 
+
+
 ### Intimite Preset
 
 If you want the sound to be as if everything revolves around your head, a Stereo Base of 0.46-0.64 will do that when you lean in. Slowly increment based on how much you tend to lean. Higher values make it harder to gauge far distances ahead of you.
@@ -35,6 +43,3 @@ If you want the sound to be as if everything revolves around your head, a Stereo
 
 If, however, your suspension of disbelief isn't too powerful, and prefer to hear the sound come from right where it is on the screen without needing to lean in, use -0.16 Stereo Base.  
 
-### Immersive Preset
-
-Welp, I've added a preset that combines normal stereo and the closer Stereo Base one. This creates a deeper sound image and partially remedies the distance problem. It's still mostly the closer one because adding too much of the original would make the front and back sound disconnected.
