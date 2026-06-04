@@ -9,6 +9,14 @@
             "output-gain": 0.0
         },
         "blocklist": [],
+        "crosstalk_canceller#0": {
+            "bypass": false,
+            "decay-db": -2.0,
+            "delay-us": 313.0,
+            "input-gain": 0.0,
+            "output-gain": 0.0,
+            "phantom-center-only": true
+        },
         "equalizer#0": {
             "balance": 0.0,
             "bypass": false,
@@ -709,6 +717,7 @@
         "plugins_order": [
             "equalizer#0",
             "bass_loudness#0",
+            "crosstalk_canceller#0",
             "stereo_tools#0"
         ],
         "stereo_tools#0": {
