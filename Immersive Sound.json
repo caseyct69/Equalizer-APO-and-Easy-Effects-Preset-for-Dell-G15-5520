@@ -15,7 +15,7 @@
             "delay-us": 313.0,
             "input-gain": 0.0,
             "output-gain": 0.0,
-            "phantom-center-only": true
+            "phantom-center-only": false
         },
         "equalizer#0": {
             "balance": -0.1,
