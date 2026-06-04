@@ -743,7 +743,9 @@
             "stereo_tools#1",
             "stereo_tools#0",
             "stereo_tools#2",
-            "stereo_tools#3"
+            "stereo_tools#3",
+            "stereo_tools#4",
+            "stereo_tools#5"
         ],
         "stereo_tools#0": {
             "balance-in": 0.0,
@@ -836,6 +838,52 @@
             "stereo-base": 0.38,
             "stereo-phase": 0.0,
             "wet": -15.67
+        },
+        "stereo_tools#4": {
+            "balance-in": 0.0,
+            "balance-out": 0.0,
+            "bypass": false,
+            "delay": 0.02,
+            "dry": 0.0,
+            "input-gain": 0.0,
+            "middle-level": 0.3,
+            "middle-panorama": 0.0,
+            "mode": "LR > LR (Stereo Default)",
+            "mutel": false,
+            "muter": false,
+            "output-gain": 0.0,
+            "phasel": false,
+            "phaser": false,
+            "sc-level": 1.0,
+            "side-balance": 0.0,
+            "side-level": 0.0,
+            "softclip": false,
+            "stereo-base": 0.48,
+            "stereo-phase": 0.0,
+            "wet": -27.0
+        },
+        "stereo_tools#5": {
+            "balance-in": 0.0,
+            "balance-out": 0.0,
+            "bypass": false,
+            "delay": 0.02,
+            "dry": 0.01,
+            "input-gain": 0.0,
+            "middle-level": 0.3,
+            "middle-panorama": 0.0,
+            "mode": "LR > LR (Stereo Default)",
+            "mutel": false,
+            "muter": false,
+            "output-gain": 0.0,
+            "phasel": false,
+            "phaser": false,
+            "sc-level": 1.0,
+            "side-balance": 0.0,
+            "side-level": 0.0,
+            "softclip": false,
+            "stereo-base": 0.6,
+            "stereo-phase": 0.0,
+            "wet": -38.0
         }
     }
 }
