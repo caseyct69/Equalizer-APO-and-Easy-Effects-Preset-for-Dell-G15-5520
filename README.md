@@ -33,7 +33,7 @@ I've found that increasing Stereo Base can bring forward more detail in music, b
 ### Immersive Preset _(Try this one first)_
 
 This is what I use for everything. It's not for FPS games (too wide for on-screen accuracy), but boy does it sound good. Large full space with unnoticable phasing.  
-**PLEASE NOTE that this takes away 2-5% from my i7-12700H.**
+This takes away 0.5% from my i7-12700H. You can probably use it on other laptop speakers too, just not the EQ.
 
 
 ### Intimite Preset
