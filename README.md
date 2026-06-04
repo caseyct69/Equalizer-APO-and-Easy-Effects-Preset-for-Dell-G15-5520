@@ -1,9 +1,9 @@
 # Equalizer APO and Easy Effects Preset for Dell G15 5520
-### My attempt at making the Dell G15 5520 speakers sound more natural via tuning. Made for a better music and gaming experience. Feel free to try this out on any other Dell G series laptop.
+### My attempt at making the Dell G15 5520 speakers sound more natural via tuning and stereo layering. Made for a better music and gaming experience. Feel free to try this out on any other Dell G series laptop.
 
 ## Equalizer
 
-This is a 31-band parametric equalizer.
+It is a 31-band parametric equalizer.
 
 
 Slightly boosted sub at 20-25hz
