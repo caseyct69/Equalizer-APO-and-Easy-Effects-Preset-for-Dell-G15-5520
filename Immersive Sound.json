@@ -9,8 +9,16 @@
             "output-gain": 0.0
         },
         "blocklist": [],
+        "crosstalk_canceller#0": {
+            "bypass": false,
+            "decay-db": -2.0,
+            "delay-us": 313.0,
+            "input-gain": 0.0,
+            "output-gain": 0.0,
+            "phantom-center-only": true
+        },
         "equalizer#0": {
-            "balance": 0.0,
+            "balance": -0.1,
             "bypass": false,
             "input-gain": 0.0,
             "left": {
@@ -731,6 +739,7 @@
         "plugins_order": [
             "equalizer#0",
             "bass_loudness#0",
+            "crosstalk_canceller#0",
             "stereo_tools#1",
             "stereo_tools#0",
             "stereo_tools#2",
@@ -743,7 +752,7 @@
             "delay": 0.01,
             "dry": -10.01,
             "input-gain": 0.0,
-            "middle-level": 0.32,
+            "middle-level": 0.31,
             "middle-panorama": 0.0,
             "mode": "LR > LR (Stereo Default)",
             "mutel": false,
@@ -766,7 +775,7 @@
             "delay": 0.01,
             "dry": -10.02,
             "input-gain": 0.0,
-            "middle-level": 0.33,
+            "middle-level": 0.31,
             "middle-panorama": 0.0,
             "mode": "LR > LR (Stereo Default)",
             "mutel": false,
@@ -789,7 +798,7 @@
             "delay": 0.01,
             "dry": -10.02,
             "input-gain": 0.0,
-            "middle-level": 0.32,
+            "middle-level": 0.31,
             "middle-panorama": 0.0,
             "mode": "LR > LR (Stereo Default)",
             "mutel": false,
