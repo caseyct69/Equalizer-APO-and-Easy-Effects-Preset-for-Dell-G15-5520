@@ -27,6 +27,9 @@ Calibrated for more accurate imaging for gaming using this video: https://www.yo
 
 I've found that increasing Stereo Base can bring forward more detail in music, but makes the sound more squashed and thin the farther you push (back OR forth), so be mindful of that. Adding 1 or 2ms of delay will help with that though, without phasing too much and straight up ruin your sound.
 
+## Crosstalk Canceller
+
+The chassis makes everything sound plastic and like it's played through a tube (it is). This can help with that.
 
 ## Presets
 
